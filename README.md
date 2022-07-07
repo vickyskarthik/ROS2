@@ -1,5 +1,10 @@
 # ROS2
 
+# ROS1 vs ROS2
+https://roboticsbackend.com/ros1-vs-ros2-practical-overview/
+
+
+
 #ROS2 in windows
 
 error message
