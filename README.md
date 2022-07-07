@@ -3,6 +3,8 @@
 # ROS1 vs ROS2
 https://roboticsbackend.com/ros1-vs-ros2-practical-overview/
 
+# ROS2 installation
+https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html
 
 
 #ROS2 in windows
